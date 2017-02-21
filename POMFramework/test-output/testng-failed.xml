@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Amazon]">
+  <test name="RegSet1(failed)">
+    <classes>
+      <class name="component_lib.search_item">
+        <methods>
+          <include name="validSearch"/>
+        </methods>
+      </class> <!-- component_lib.search_item -->
+    </classes>
+  </test> <!-- RegSet1(failed) -->
+</suite> <!-- Failed suite [Amazon] -->

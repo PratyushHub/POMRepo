@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Amazon">
+    <test name="RegSet1">
+       
+     <classes>
+          <class  name="component_lib.search_item" />
+           
+       </classes>
+    </test> <!-- Test -->
+</suite> <!-- Suite -->

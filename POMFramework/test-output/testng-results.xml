@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Amazon" duration-ms="81375" started-at="2017-02-20T13:14:19Z" finished-at="2017-02-20T13:15:41Z">
+    <groups>
+    </groups>
+    <test name="RegSet1" duration-ms="81375" started-at="2017-02-20T13:14:19Z" finished-at="2017-02-20T13:15:41Z">
+      <class name="component_lib.search_item">
+        <test-method status="PASS" signature="validSearch()[pri:0, instance:component_lib.search_item@617faa95]" name="validSearch" duration-ms="81339" started-at="2017-02-20T18:44:19Z" finished-at="2017-02-20T18:45:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validSearch -->
+      </class> <!-- component_lib.search_item -->
+    </test> <!-- RegSet1 -->
+  </suite> <!-- Amazon -->
+</testng-results>
