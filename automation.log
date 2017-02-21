@@ -1,0 +1,21 @@
+2017-02-20 18:06:22 INFO  TestDriver:30 - Selecting the browser 
+2017-02-20 18:13:29 INFO  TestDriver:31 - Selecting the browser
+2017-02-20 18:14:02 INFO  TestDriver:31 - Selecting the browser
+2017-02-20 18:14:50 INFO  TestDriver:31 - Selecting the browser
+2017-02-20 18:16:05 INFO  TestDriver:31 - Selecting the browser
+2017-02-20 18:16:05 INFO  TestDriver:36 - Chrome browser selected
+2017-02-20 18:16:12 INFO  TestDriver:39 - Chrome browser selected
+2017-02-20 18:16:50 INFO  TestDriver:31 - Selecting the browser
+2017-02-20 18:18:11 INFO  TestDriver:31 - Selecting the browser
+2017-02-20 18:32:34 INFO  TestDriver:31 - Selecting the browser
+2017-02-20 18:32:38 INFO  TestDriver:38 - Chrome browser selected
+2017-02-20 18:38:17 INFO  TestDriver:31 - Selecting the browser
+2017-02-20 18:38:24 INFO  TestDriver:34 - Firefox selected 
+2017-02-20 18:39:01 INFO  TestDriver:31 - Selecting the browser
+2017-02-20 18:39:08 INFO  TestDriver:34 - Firefox selected 
+2017-02-20 18:40:47 INFO  TestDriver:31 - Selecting the browser
+2017-02-20 18:40:51 INFO  TestDriver:38 - Chrome browser selected
+2017-02-20 18:44:19 INFO  TestDriver:31 - Selecting the browser
+2017-02-20 18:44:23 INFO  TestDriver:38 - Chrome browser selected
+2017-02-20 18:45:40 INFO  search_item:20 - Search for Mobile
+2017-02-20 18:45:41 INFO  search_item:22 - Click on search button
