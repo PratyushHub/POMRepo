@@ -20,5 +20,6 @@ public class search_item extends TestDriver {
 		log.info("Search for Mobile");
 		cart.Click_Searchbtn();
 		log.info("Click on search button");
+		log.info("Succfully");
 	}
 }
